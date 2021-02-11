@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231948227247",
+    "project_id": "deal-8a020",
+    "storage_bucket": "deal-8a020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231948227247:android:19a339d95da71bcae47a5a",
+        "android_client_info": {
+          "package_name": "com.unicly.deal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231948227247-a2635f871m1lbmv7dkgatdsgen861k42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlWb_pAw3-gHcbH2h_DLefV7VVZG0Tq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231948227247-a2635f871m1lbmv7dkgatdsgen861k42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
